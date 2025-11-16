@@ -1,0 +1,15 @@
+Tutorial
+
+Open the cheatspoofer.
+
+Enter the loader name from the cheatspoofer (e.g., loader.exe).
+
+First, use the Memory Patcher.
+
+Wait until it says Success.
+
+Now run the License Patcher.
+
+Wait until it says Success.
+
+Enter any license. ✅ Done.
