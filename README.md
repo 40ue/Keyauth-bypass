@@ -6,4 +6,4 @@
 
 # FAQ
 1. Is this a virus?
-No, windows defender will catch this as a virus. This is a false positive, if you do not feel comfortable downloading the executable then build from source.
+No, windows defender will catch this as a virus. This is a false positive, if you do not feel comfortable downloading the executable just leave.
